@@ -10,7 +10,11 @@ class Document extends Model
     use HasFactory;
 
     protected $fillable = [
-        
+        'subject',
+        'type',
+        'archive',
+        'from',
+        'to',
     ];
     
 }
