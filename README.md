@@ -1,3 +1,4 @@
 # Protocolo Online SME
  
-Developed using Laravel Framework.
+*In Development.*
+Using Laravel Framework 9.0 + MySQL.
